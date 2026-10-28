@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_ui_keyboard` package.
-const String audAudioUiKeyboardVersion = '0.0.3';
+const String audAudioUiKeyboardVersion = '0.1.0';
